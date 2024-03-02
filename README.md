@@ -1,9 +1,9 @@
 # Python libraries we will be using:
 
-Taipy
-TensorFlow
-Numpy
-Pillow ( PIL) - Python imaging library
++ Taipy
++ TensorFlow
++ Numpy
++ Pillow ( PIL) - Python imaging library
 
 # Run the application
 
@@ -11,14 +11,14 @@ Pillow ( PIL) - Python imaging library
 
 
 # How to use the application?
-Upload any .png, preferably with an image part of these ten categories!
+Upload any .png, preferably with an image part of these ten categories:
 
-airplane
-automobile
-bird
-cat
-deer
-dog
-frog
-horse
-ship
++ airplane
++ automobile
++ bird
++ cat
++ deer
++ dog
++ frog
++ horse
++ ship
